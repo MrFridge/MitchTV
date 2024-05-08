@@ -1,6 +1,6 @@
 # MitchTV
 
-Hello ABN Amro, welcome to MitchTV!
+Hello ABN Amro, welcome to MitchTV!<br>
 It's a tv-show dashboard inspired by familiar streaming services :)
 
 This is the assessment I made in the last few days. I've worked hard on this and I'm excited to show you the end result.
@@ -36,8 +36,8 @@ npm install
 npm run build-db
 ```
 
-The build-db server will close automatically once done, the terminal will give feedback on this.
-The data folder in the server directory now contains json files filled with shows by category.
+The build-db server will close automatically once done, the terminal will give feedback on this.<br>
+The data folder in the server directory now contains json files filled with shows by category.<br>
 Time to start the endpoints to serve these!
 
 ### Start backend
@@ -50,9 +50,9 @@ To run unit tests for the backend type `npm test`
 
 ### Dependencies
 
-The backend uses `NodeJS v21.7.1` with `express`
-`typescript ^5.4.5` is used to turn NodeJS into NodeTS
-For testing the backend uses `jest` and `t-jest` for typescript parsing
+The backend uses `NodeJS v21.7.1` with `express`<br>
+`typescript ^5.4.5` is used to turn NodeJS into NodeTS<br>
+For testing the backend uses `jest` and `t-jest` for typescript parsing<br>
 For handling cross-origin requests the `cors` package is used
 
 # Frontend
@@ -91,7 +91,7 @@ To run units tests for the frontend type `npm test`
 
 ### Dependencies
 
-For the sake of the assessment, only a few dependencies have been introduced.
-For unit-testing `vitest` is used, the standard package included with Vue
-The frontend uses `pinia` for state management.
+For the sake of the assessment, only a few dependencies have been introduced.<br>
+For unit-testing `vitest` is used, the standard package included with Vue<br>
+The frontend uses `pinia` for state management<br>
 The `axios` package is used to handle api calls
