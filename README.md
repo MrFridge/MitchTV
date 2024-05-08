@@ -83,7 +83,7 @@ Once the dependencies are installed it's time to get to the good part:
 
 ### Start frontend
 
-To start the frontend type `npm run dev` in the root directory of the project
+To start the frontend type `npm run dev` in the root directory of the project<br>
 Open your browser and go to `http://localhost:5173/`
 
 ### Frontend run tests
