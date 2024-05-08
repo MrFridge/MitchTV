@@ -55,8 +55,6 @@ The backend uses `NodeJS v21.7.1` with `express`
 For testing the backend uses `jest` and `t-jest` for typescript parsing
 For handling cross-origin requests the `cors` package is used
 
----
-
 # Frontend
 
 The frontend consists of four pages
