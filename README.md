@@ -3,7 +3,8 @@
 Hello ABN Amro, welcome to MitchTV!<br>
 It's a tv-show dashboard inspired by familiar streaming services :)
 
-This is the assessment I made in the last few days. I've worked hard on this and I'm excited to show you the end result.
+This is the assessment I made in the last few days.<br>
+I've worked hard on this and I'm excited to show you the end result.
 
 ## Short overview
 
