@@ -95,4 +95,4 @@ To run units tests for the frontend type `npm test`
 To serve icons across the website a free version of `font awesome` is included<br>
 The standard Vue testing package `vitest` is used to create the unit-tests<br>
 The frontend uses `pinia` for state management, this allows for better scalability and prevents prop drilling<br>
-The `axios` package is used to handle api calls: for its backwards compabitility, json parsing and unified response
+The `axios` package is used to handle api calls: for its backwards compatibility, json parsing and unified response
