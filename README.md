@@ -73,7 +73,7 @@ There are many more things to discover, let's get that frontend running!
 
 ### First-time frontend
 
-To get started with the MitchTV frontend it's important that all dependencies are installed. This is a one-time process. To do this open a new terminal in your IDE and type the following in the root directory:
+To get started with the MitchTV frontend it's important that all dependencies are installed. This is a one-time process. With the backend server running, open a new terminal in your IDE and type the following in the root directory of the project:
 
 ```
 npm install
@@ -83,7 +83,7 @@ Once the dependencies are installed it's time to get to the good part:
 
 ### Start frontend
 
-To start the frontend type `npm run dev` in the root directory of the project<br>
+To start the frontend type `npm run dev` in the root directory<br>
 Open your browser and go to `http://localhost:5173/`
 
 ### Frontend run tests
