@@ -1,0 +1,33 @@
+export enum ShowGenre {
+  All = 'All',
+  Nature = 'Nature',
+  Drama = 'Drama',
+  Crime = 'Crime',
+  Thriller = 'Thriller',
+  Adventure = 'Adventure',
+  ScienceFiction = 'Science-Fiction',
+  Fantasy = 'Fantasy',
+  Action = 'Action',
+  Mystery = 'Mystery',
+  Supernatural = 'Supernatural',
+  War = 'War',
+  Anime = 'Anime',
+  History = 'History',
+  Medical = 'Medical',
+  Comedy = 'Comedy',
+  Family = 'Family',
+  Romance = 'Romance',
+  Western = 'Western',
+  Legal = 'Legal',
+  Espionage = 'Espionage',
+  Horror = 'Horror',
+  Children = 'Children',
+  Sports = 'Sports',
+  Music = 'Music',
+  Food = 'Food',
+  Travel = 'Travel',
+  Adult = 'Adult',
+  DIY = 'DIY'
+}
+
+export const allGenres = Object.values(ShowGenre)
