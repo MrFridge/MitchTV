@@ -53,7 +53,7 @@ To run unit tests for the backend type `npm test`
 
 The backend uses `NodeJS v21.7.1` with `express`<br>
 `typescript ^5.4.5` is used to turn NodeJS into NodeTS<br>
-For testing the backend uses `jest` and `t-jest` for typescript parsing<br>
+For testing, the backend uses `jest` and `t-jest` for typescript parsing<br>
 For handling cross-origin requests the `cors` package is used
 
 # Frontend
