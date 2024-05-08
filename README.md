@@ -92,8 +92,7 @@ To run units tests for the frontend type `npm test`
 
 ### Dependencies
 
-For the sake of the assessment, only a few dependencies have been introduced.<br>
-For unit-testing `vitest` is used, the standard package included with Vue<br>
-To serve icons across the website a free version of `font awesome` is used<br>
-The frontend uses `pinia` for state management<br>
-The `axios` package is used to handle api calls
+To serve icons across the website a free version of `font awesome` is included<br>
+The standard Vue testing package `vitest` is used to create the unit-tests<br>
+The frontend uses `pinia` for state management, this allows for better scalability and prevents prop drilling<br>
+The `axios` package is used to handle api calls: for its backwards compabitility, json parsing and unified response
