@@ -73,7 +73,7 @@ There are many more things to discover, let's get that frontend running!
 
 ### First-time frontend
 
-To get started with the MitchTV frontend it's important that all dependencies are installed. This is a one-time process. To do this type the following in the root directory:
+To get started with the MitchTV frontend it's important that all dependencies are installed. This is a one-time process. To do this open a new terminal in your IDE and type the following in the root directory:
 
 ```
 npm install
